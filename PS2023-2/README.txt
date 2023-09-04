@@ -10,9 +10,11 @@ A opção escolhida foi Frontend. Consiste em:
 
 As cores foram inspiradas na logo da CEOS. O fundo da página é azul 'Blue de France'. Os botões são laranja 'Beer' - nome interessante, diga-se de passagem.
 
-A organização das pastas e arquivos segue o padrão next.js com a presença de arquivos como .gitignore, package e package-lock, pasta .next e node_modules... Por fins de organização os principais arquivos foram separados em uma pasta /src que contém:
+A organização das pastas e arquivos segue o padrão next.js com a presença de arquivos como .gitignore, package e package-lock... Por fins de organização os principais arquivos foram separados em uma pasta /src que contém:
   - /app : Arquivos das páginas, layout e favicon.
   - /components : Arquivos .jsx dos componentes criados
   - /styles : Arquivo .css global - como só há uma página não se viu necessária a criação de um arquivo específico para cada componente, facilitando assim o import e diminuindo a quantidade de arquivos para commit
+
+OBS: Devido ao tamanho das pastas /.next e /node_modules elas não foram adicionadas ao arquivo .rar pois se não ele ultrapassaria o tamanho limite. Contudo, não foram feitas mudanças nessas pastas nem em seus arquivos. Peço que extraia o zip em um diretório que já contenha essas duas pastas para obter o funcionamento correto.
 
 Feito por Isaac Mosiah Bandeira - 2023
